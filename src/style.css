@@ -153,4 +153,9 @@ p {
     text-align: center;
     margin: 0 auto;
   }
+
+  .project-links a {
+    padding: 15px 50px;
+    font-size: 14px;
+  }
 }
